@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard UI
 
 ## Overview
@@ -28,3 +29,7 @@ npm run dev
 
 4. Open browser
 http://localhost:5173
+=======
+# finance-dashboard
+A clean and responsive Finance Dashboard UI built with React, Tailwind CSS, and Recharts. Includes summary cards, charts, transactions table, role-based UI, and insights.
+>>>>>>> 74c2be50108e50f09c3e86910882152c16a7033b
